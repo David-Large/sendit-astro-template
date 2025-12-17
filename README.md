@@ -8,17 +8,17 @@ Sendit is a polished, marketing website template for Astro. Browse through a [li
 
 ## Features
 
-- **Modern Architecture**: Built with Astro and React for optimal performance
+- **Modern architecture**: Built with Astro and React for optimal performance
 - **Tailwind CSS**: Custom styling with utility-first CSS framework
-- **Component Library**: Reusable, componentized architecture for better maintainability
-- **Visual Editing**: Advanced visual editing capabilities with [CloudCannon](https://cloudcannon.com/)
-- **Interactive Components**: Custom React hooks for interactivity
-- **Image Optimization**: Astro's built-in image optimization for all images
+- **Component library**: Reusable, componentized architecture for better maintainability
+- **Visual editing with editable regions**: Advanced visual editing capabilities with [CloudCannon](https://cloudcannon.com/)
+- **Interactive components**: Custom React hooks for interactivity
+- **Image optimization**: Astro's built-in image optimization for all images
 - **Accessibility**: Fully accessible navigation and components
-- **Dynamic Theming**: Real-time theme color updates.
-- **Blog System**: Complete blog with pagination and category pages
-- **SEO Optimized**: Pre-configured for search engine optimization
-- **Live Editing**: Seamless content editing experience in CloudCannon
+- **Dynamic theming**: Real-time theme color updates.
+- **Blog system**: Complete blog with pagination and category pages
+- **SEO optimized**: Pre-configured for search engine optimization
+- **Live editing**: Seamless content editing experience in CloudCannon
 
 ## Setup
 
@@ -43,16 +43,16 @@ npm run dev
 
 ## Editing
 
-Sendit features advanced visual editing capabilities with CloudCannon's split configuration, allowing for intuitive content management and real-time preview.
+Sendit features advanced visual editing capabilities with CloudCannon's editable regions, allowing for intuitive content management and real-time preview.
 
 ### Visual Editing
 
 - **Live Preview**: See changes instantly as you edit
 - **Component-based**: Edit reusable components directly in context
-- **Interactive Elements**: Visual editing works seamlessly with React components
-- **Split Configuration**: Modern CloudCannon setup for enhanced editing experience
+- **Interactive elements**: Visual editing works seamlessly with React components
+- **Split configuration**: Modern CloudCannon setup for enhanced editing experience
 
-### Content Management
+### Content management
 
 #### Posts
 
@@ -60,18 +60,18 @@ Sendit features advanced visual editing capabilities with CloudCannon's split co
 - Automatic pagination and category organization
 - Rich content editing with live preview
 
-#### Site Configuration
+#### Site configuration
 
-- **Company Details**: Centralized company information reused across the site
+- **Company details**: Centralized company information reused across the site
 - **Navigation**: Fully accessible, responsive navigation management
 - **Footer**: Configurable footer elements and links
 
-#### Theme Customization
+#### Theme customization
 
-- **Dynamic Colors**: Update theme colors in real-time through CloudCannon
-- **Tailwind Integration**: Colors automatically propagate through the design system
+- **Dynamic colors**: Update theme colors in real-time through CloudCannon
+- **Tailwind integration**: Colors automatically propagate through the design system
 
-### Interactive Components
+### Interactive components
 
 - Custom React hooks handle all interactive functionality
 - Lightweight with minimal external dependencies
